@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum — Academic Workspace",
+  "description": "An aesthetic, soothing, and premium academic web app designed for distraction-free scholarship, courses, and study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
